@@ -1,0 +1,10 @@
+{
+  "name": "repositorio-institucional-espma",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Repositório institucional estático da Escola de Saúde Pública do Maranhão.",
+  "scripts": {
+    "dev": "python3 -m http.server 3000 --bind 0.0.0.0",
+    "check": "python3 -c \"import json, pathlib; [json.load(open(p)) for p in pathlib.Path('data').glob('*.json')]\""
+  }
+}

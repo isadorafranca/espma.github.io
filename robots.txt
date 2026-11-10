@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Substitua o endereço abaixo pelo domínio real do GitHub Pages após criar o repositório.
+Sitemap: https://SEU-USUARIO.github.io/SEU-REPOSITORIO/sitemap.xml

@@ -1,0 +1,15 @@
+{
+  "colecoes": [
+    {"nome":"Produção Científica","descricao":"Artigos, comunicações e resultados de pesquisa em saúde pública.","icone":"✦"},
+    {"nome":"Trabalhos Acadêmicos","descricao":"TCCs, dissertações e teses produzidos em percursos formativos.","icone":"⌘"},
+    {"nome":"Pesquisa","descricao":"Projetos, protocolos e produtos de investigação aplicada.","icone":"⌁"},
+    {"nome":"Extensão","descricao":"Ações e conhecimentos construídos com os territórios e serviços.","icone":"↗"},
+    {"nome":"Educação Permanente em Saúde","descricao":"Materiais e experiências para transformar práticas no SUS.","icone":"◎"},
+    {"nome":"Materiais Didáticos","descricao":"Guias, cadernos e recursos de apoio à aprendizagem.","icone":"▤"},
+    {"nome":"Publicações Institucionais","descricao":"Memórias, planos e documentos de referência da Escola.","icone":"▥"},
+    {"nome":"Relatórios Técnicos","descricao":"Sínteses técnicas, diagnósticos e entregas de projetos.","icone":"▧"},
+    {"nome":"Protocolos e Manuais","descricao":"Orientações operacionais, protocolos e manuais autorizados.","icone":"▰"},
+    {"nome":"Eventos Científicos","descricao":"Anais, resumos e registros de encontros científicos.","icone":"✧"}
+  ],
+  "tipos": ["Artigo","TCC","Dissertação","Tese","Relatório técnico","Manual","Livro","Material didático","Projeto de pesquisa","Nota técnica"]
+}
